@@ -1,0 +1,12 @@
+# what you need to run the pipeline
+numpy
+pandas
+biopython
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# handy later, not needed yet, so leave them off for now
+# umap-learn
+# xgboost
